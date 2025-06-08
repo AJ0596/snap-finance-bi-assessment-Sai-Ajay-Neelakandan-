@@ -2,7 +2,7 @@
 
 This repository contains my take-home submission for the Snap Finance BI Engineer role.
 
-##Tools used
+## Tools used
 - Python (Jupyter notebook)
 - PostgreSQL
 - Tableau Desktop
